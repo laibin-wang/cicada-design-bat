@@ -20,5 +20,6 @@ module.exports = {
   rules: {
     'no-multi-spaces': [2, { ignoreEOLComments: true }],
     'eol-last': 0,
+    ' @typescript-eslint/no-var-requires': 0,
   },
 }
